@@ -39,7 +39,7 @@ if ( isset( $_GET['generate_mp3s'] ) ) {
 	foreach ( $vocab as $key => $words ) {
 		foreach ( $words as $lang => $word ) {
 			$file_name = md5( $word ) . '.mp3';
-			if ( file_exists( 'german-vocab/' . $file_name ) ) {
+			if ( file_exists( 'audio/' . $file_name ) ) {
 				continue;
 			}
 
@@ -85,7 +85,7 @@ COMMAND;
 			$command = "
 				cat tmp1.txt | grep 'audioContent' | \
 				sed 's|audioContent| |' | tr -d '\n \":{},' > tmp2.txt && \
-				base64 tmp2.txt --decode > german-vocab/" . $file_name . " && \
+				base64 tmp2.txt --decode > audio/" . $file_name . " && \
 				rm tmp1.txt && \
 				rm tmp2.txt";
 			shell_exec( $command );
@@ -229,14 +229,14 @@ console.log('time_delay: ' + time_delay);
 
 		// If clicking next and already on english, then switch to next question.
 		if ( 'en' === language ) {
-			time_delay = 6;
+			time_delay = 10;
 			language   = 'de';
 console.log('en');
 			number++;
 			window.history.pushState(
 				'object or string',
 				'',
-				'/german-vocab.php?question=' + number
+				'/german-vocab/index.php?question=' + number
 			);
 		} else {
 console.log('de');
@@ -246,6 +246,7 @@ console.log('de');
 
 		set_question();
 		play_audio();
+		wait_a_while( time_delay );
 	}
 
 	/**
@@ -267,19 +268,17 @@ console.log('de');
 	function play_audio() {
 		question = words[ number ];
 
-		//Create the audio tag
 		let audio_tag = document.getElementById( 'audio' );
-		audio_tag.src = '/german-vocab/' + MD5( question[ language ] ) + '.mp3';
-		//audio_tag.load()
+		audio_tag.src = '/german-vocab/audio/' + MD5( question[ language ] ) + '.mp3';
 		audio_tag.play(); 
 
 		let promise = audio_tag.play();
-		if (promise !== undefined) {
+		if ( promise !== undefined ) {
 			promise.then(_ => {
 				// Success!
-			}).catch(error => {
+			} ).catch( error => {
 				console.log( 'Error: Access of MP3 file failed' );
-			});
+			} );
 		}
 
 	}
