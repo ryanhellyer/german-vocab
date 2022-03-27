@@ -1,5 +1,7 @@
 <?php
 
+declare( strict_types = 1 );
+
 if (
 	'test-strattic.io' !== $_SERVER['HTTP_HOST']
 	&&
@@ -213,7 +215,7 @@ console.log('time_delay: ' + time_delay);
 		window.history.pushState(
 			'object or string',
 			'',
-			'/german-vocab.php?question=' + number
+			'/german-vocab/index.php?question=' + number
 		);
 
 		set_question();
@@ -555,27 +557,10 @@ var MD5 = function (string) {
 	return temp.toLowerCase();
 }
 
-/*
-//Create the audio tag
-let audio_tag = document.getElementById( 'audio' );
-audio_tag.src = '/german-vocab/212085657c9dc1a2c1284df3bc61a1f6.mp3';
-//audio_tag.load()
-audio_tag.play(); 
-*/
-
 </script>
 
 </body>
 </html>
 <!--
-
-en: german-vocab/718eaf3c7bcd94830d9f5f7695175450.mp3
-de: german-vocab/212085657c9dc1a2c1284df3bc61a1f6.mp3
-
-
 https://cloud.google.com/text-to-speech/docs/voices
-'languageCode': 'en-US',
-'name': 'en-US-Wavenet-D'
-'ssmlGender':'MALE'
-
 -->
