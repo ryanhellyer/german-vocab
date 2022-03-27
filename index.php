@@ -154,6 +154,9 @@ small {
 <button id="confirm-audio" type="button">Turn on audio</button>
 
 <script>
+
+const timestamp = Date.now();
+
 window.onload=function() {
 	const words = <?php echo escape_string( $json ); ?>
 
@@ -166,7 +169,7 @@ window.onload=function() {
 	}
 
 	set_question();
-	wait_a_while( 5 )
+//	wait_a_while( 5 )
 
 	/**
 	 * Wait a while before moving to the next question.
@@ -174,10 +177,11 @@ window.onload=function() {
 	 * @param int time_delay The time in seconds to wait.
 	 */
 	function wait_a_while( time_delay ) {
-console.log('time_delay: ' + time_delay);
+		console.log( 'time_delay: ' + time_delay );
+		console.log( 'timestamp: ' + Math.floor( ( Date.now() - timestamp ) ) / 1000 );
+
 		setTimeout(
 			function() {
-				console.log('TIME OUT!');
 				forward();
 			},
 			time_delay * 1000
@@ -231,7 +235,7 @@ console.log('time_delay: ' + time_delay);
 		if ( 'en' === language ) {
 			time_delay = 10;
 			language   = 'de';
-console.log('en');
+
 			number++;
 			window.history.pushState(
 				'object or string',
@@ -239,9 +243,8 @@ console.log('en');
 				'/german-vocab/index.php?question=' + number
 			);
 		} else {
-console.log('de');
-			time_delay = 1;
-			language = 'en';
+			time_delay = 4;
+			language   = 'en';
 		}
 
 		set_question();
@@ -267,6 +270,7 @@ console.log('de');
 	 */
 	function play_audio() {
 		question = words[ number ];
+//wait_a_while( 20 );
 
 		let audio_tag = document.getElementById( 'audio' );
 		audio_tag.src = '/german-vocab/audio/' + MD5( question[ language ] ) + '.mp3';
