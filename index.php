@@ -1,6 +1,9 @@
 <?php
+//EDITED UP TO 835 SO FAR ... 
 
 declare( strict_types = 1 );
+
+require( '../../google-config.php' );
 
 if (
 	'test-strattic.io' !== $_SERVER['HTTP_HOST']
@@ -21,6 +24,7 @@ function escape_string( $html ) {
 	return stripslashes( strip_tags( $html ) );
 }
 
+
 // Get sanitised vocab list.
 $json  = file_get_contents( 'german-vocab.json' );
 $array = json_decode( $json );
@@ -30,7 +34,7 @@ foreach ( $array as $key1 => $words ) {
 		$vocab[ $key1 ][ $key2 ] = escape_string( $word );
 	}
 }
-$json = json_encode( $vocab );
+$json = json_encode( $vocab, JSON_UNESCAPED_UNICODE ); // Unescaped unicode is important to handle umlauts.
 
 /**
  * Generate MP3s from vocab list.
@@ -44,7 +48,7 @@ if ( isset( $_GET['generate_mp3s'] ) ) {
 			}
 
 			$command = <<<COMMAND
-curl -H 'X-Goog-Api-Key: AIzaSyAdCOb-t4EEjACb6GQbErFUI6EAUGCZerg' \
+curl -H 'X-Goog-Api-Key: {{google_api_key}}' \
 	-H 'Content-Type: application/json; charset=utf-8' \
 	--data '{
 		"audioConfig": {
@@ -66,6 +70,7 @@ curl -H 'X-Goog-Api-Key: AIzaSyAdCOb-t4EEjACb6GQbErFUI6EAUGCZerg' \
 	}' 'https://texttospeech.googleapis.com/v1beta1/text:synthesize' > tmp1.txt
 COMMAND;
 			$command = str_replace( '{{word}}', $word, $command );
+			$command = str_replace( '{{google_api_key}}', $google_api_key, $command );
 
 			if ( 'de' === $lang ) {
 				$lang_code = 'de-DE';
@@ -79,6 +84,7 @@ COMMAND;
 			$command = str_replace( '{{lang_code}}', $lang_code, $command );
 			$command = str_replace( '{{lang_name}}', $lang_name, $command );
 			$command = str_replace( '{{gender}}', $gender, $command );
+//echo $command;die;
 
 			shell_exec( $command );
 
@@ -89,10 +95,12 @@ COMMAND;
 				rm tmp1.txt && \
 				rm tmp2.txt";
 			shell_exec( $command );
+echo $command;
 echo $lang . "\n";
 echo $word . "\n";
 echo $file_name;
 echo "\n\n";
+//die;
 		}
 
 	}
@@ -139,6 +147,9 @@ h1 {
 small {
 	font-size: 60%;
 }
+#audio {
+	display: none;
+}
 </style>
 </head>
 <body>
@@ -151,7 +162,6 @@ small {
 	<source src="" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>
-<button id="confirm-audio" type="button">Turn on audio</button>
 
 <script>
 

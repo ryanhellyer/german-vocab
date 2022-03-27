@@ -5,15 +5,15 @@
 	},
 	{
 		"en": "accept",
-		"de": "annehmen, du nimmst"
+		"de": "annehmen/du nimmst"
 	},
 	{
-		"en": "accommodation",
-		"de": "die Unterkunft (e)"
+		"en": "the accommodation",
+		"de": "die Unterkunft"
 	},
 	{
-		"en": "acknowledge\/realise",
-		"de": "erkennen (kat erkannt)"
+		"en": "acknowledge or realise/has acknowldged or recognised",
+		"de": "erkennen/hat erkannt)"
 	},
 	{
 		"en": "active",
@@ -21,7 +21,7 @@
 	},
 	{
 		"en": "additional",
-		"de": "zus\u00e4tzlich"
+		"de": "zusätzlich"
 	},
 	{
 		"en": "against",
@@ -32,7 +32,7 @@
 		"de": "degegen"
 	},
 	{
-		"en": "agree\/agreed\/accepted",
+		"en": "agree/agreed/accepted",
 		"de": "vereinbaren"
 	},
 	{
@@ -48,20 +48,20 @@
 		"de": "entlang"
 	},
 	{
-		"en": "angry\/evil",
-		"de": "b\u00f6se"
+		"en": "angry/evil",
+		"de": "böse"
 	},
 	{
-		"en": "argue",
-		"de": "(sich) streiten (hat gestritten)"
+		"en": "to argue/has argued",
+		"de": "(sich) streiten / hat gestritten"
 	},
 	{
-		"en": "arrange date with someone",
-		"de": "(sich) verabreden mit (hat verabredet)"
+		"en": "to arrange a date with someone/to have had a date with someone",
+		"de": "(sich) verabreden mit/hat verabredet"
 	},
 	{
 		"en": "at all",
-		"de": "\u00fcberhaupt"
+		"de": "überhaupt"
 	},
 	{
 		"en": "at all costs",
@@ -73,7 +73,7 @@
 	},
 	{
 		"en": "awful",
-		"de": "scheu\u00dflich"
+		"de": "scheußlich"
 	},
 	{
 		"en": "awkward",
@@ -85,11 +85,11 @@
 	},
 	{
 		"en": "bad luck",
-		"de": "das Pech (sg)"
+		"de": "das Pech"
 	},
 	{
-		"en": "bathing\/swimming",
-		"de": "baden (hat gebadet)"
+		"en": "bathing/has bathed",
+		"de": "baden/hat gebadet)"
 	},
 	{
 		"en": "because",
@@ -104,28 +104,28 @@
 		"de": "wegen"
 	},
 	{
-		"en": "bed and breakfast",
-		"de": "die Pension (-en)"
+		"en": "the bed and breakfast",
+		"de": "die Pension"
 	},
 	{
 		"en": "before",
 		"de": "vorher"
 	},
 	{
-		"en": "book (verb)",
-		"de": "buchen (hat gebucht)"
+		"en": "book/has booked",
+		"de": "buchen/hat gebucht"
 	},
 	{
-		"en": "break",
-		"de": "kaputtgehen (ist kaputtgegangen)"
+		"en": "break/is broken",
+		"de": "kaputtgehen/ist kaputtgegangen"
 	},
 	{
 		"en": "can't be bothered",
 		"de": "egal"
 	},
 	{
-		"en": "cancel",
-		"de": "k\u00fcndigen (hat gek\u00fcndigt)"
+		"en": "cancel/has been cancelled",
+		"de": "kündigen/hat gekündigt)"
 	},
 	{
 		"en": "careful",
@@ -136,8 +136,8 @@
 		"de": "bestimmt"
 	},
 	{
-		"en": "change",
-		"de": "wechseln (hat gewechselt)"
+		"en": "change/has changed",
+		"de": "wechseln/hat gewechselt"
 	},
 	{
 		"en": "city square",
@@ -153,7 +153,7 @@
 	},
 	{
 		"en": "coincidentally",
-		"de": "zuf\u00e4llig"
+		"de": "zufällig"
 	},
 	{
 		"en": "colourful",
@@ -161,15 +161,11 @@
 	},
 	{
 		"en": "come down to",
-		"de": "bereagen, er betr\u00e4g (hat betragen)"
+		"de": "bereagen"
 	},
 	{
-		"en": "come inside",
-		"de": "reinkommen (ist reingekommen)"
-	},
-	{
-		"en": "comfortable",
-		"de": "bequem"
+		"en": "come inside/has come inside",
+		"de": "reinkommen/ist reingekommen"
 	},
 	{
 		"en": "comfortable",
@@ -180,48 +176,48 @@
 		"de": "komplett"
 	},
 	{
-		"en": "concentration",
-		"de": "(sich) konzentrieren (auf hat konzentriert)"
+		"en": "concentration/has focused",
+		"de": "(sich) konzentrieren/auf hat konzentriert"
 	},
 	{
-		"en": "construction site",
-		"de": "die Baustelle (n)"
+		"en": "the construction site",
+		"de": "die Baustelle"
 	},
 	{
-		"en": "contract",
+		"en": "the contract",
 		"de": "der Vertrag"
 	},
 	{
 		"en": "cool",
-		"de": "k\u00fchl"
+		"de": "kühl"
 	},
 	{
 		"en": "crappy",
 		"de": "schrechlich"
 	},
 	{
-		"en": "cut",
-		"de": "schneiden (sich) (hat geschnitten)"
+		"en": "cut/has cut",
+		"de": "schneiden (sich)/hat geschnitten"
 	},
 	{
 		"en": "daily",
-		"de": "t\u00e4glich"
+		"de": "täglich"
 	},
 	{
 		"en": "dangerous",
-		"de": "gef\u00e4hrlich"
+		"de": "gefährlich"
 	},
 	{
-		"en": "darling",
-		"de": "der Liebling (e)"
+		"en": "the darling",
+		"de": "der Liebling"
 	},
 	{
 		"en": "dense",
 		"de": "dicht"
 	},
 	{
-		"en": "departing",
-		"de": "starten (ist gestartet)"
+		"en": "departing/has departed",
+		"de": "starten/ist gestartet"
 	},
 	{
 		"en": "different",
@@ -236,20 +232,20 @@
 		"de": "schwierig"
 	},
 	{
-		"en": "doorbell",
-		"de": "klingeln (hat geklingelt)"
+		"en": "ring/has rung",
+		"de": "klingeln/hat geklingelt"
 	},
 	{
 		"en": "down",
-		"de": "herunter, runter"
+		"de": "herunter/runter"
 	},
 	{
-		"en": "dream of",
-		"de": "tr\u00e4umen von (hat getr\u00e4umt)"
+		"en": "dream of/has dreamed",
+		"de": "träumen von/hat geträumt)"
 	},
 	{
-		"en": "drive away",
-		"de": "weg fahren (du f\u00e4hrst weg, er f\u00e4hrt weg - ist weggefahren)"
+		"en": "drive away/you are driving away/he is driving away/has driven away",
+		"de": "weg fahren/du fährst weg/er fährt weg/ist weggefahren"
 	},
 	{
 		"en": "dry",
@@ -272,16 +268,16 @@
 		"de": "sogar"
 	},
 	{
-		"en": "eventually\/finally",
-		"de": "schlie\u00dflich"
+		"en": "eventually/finally",
+		"de": "schließlich"
 	},
 	{
-		"en": "every",
-		"de": "jeder (jedes, jede)"
+		"en": "each/every",
+		"de": "jeder/jedes/jede"
 	},
 	{
-		"en": "exam",
-		"de": "die Pr\u00fcfung (-en)"
+		"en": "the exam",
+		"de": "die Prüfung"
 	},
 	{
 		"en": "excited",
@@ -296,36 +292,36 @@
 		"de": "anstrengend"
 	},
 	{
-		"en": "experience",
-		"de": "erleben (hat erlebt)"
+		"en": "experience/has experienced",
+		"de": "erleben/hat erlebt"
 	},
 	{
 		"en": "extra",
 		"de": "extra"
 	},
 	{
-		"en": "fall",
-		"de": "fallen, du f\u00e4llst, er f\u00e4llt (ist gefallen)"
+		"en": "fall/you fall/he falls/has fallen",
+		"de": "fallen/du fällst, er fällt/ist gefallen"
 	},
 	{
 		"en": "famous",
-		"de": "ber\u00fchmt"
+		"de": "berühmt"
 	},
 	{
-		"en": "father in law \/ mother in law",
-		"de": "der Schwiegervater \/ die Schwiegermutter"
+		"en": "the father in law/the mother in law",
+		"de": "der Schwiegervater/die Schwiegermutter"
 	},
 	{
 		"en": "fatt",
 		"de": "fett"
 	},
 	{
-		"en": "favourable \/ cheap",
+		"en": "favourable/cheap",
 		"de": "preiswert"
 	},
 	{
-		"en": "fill up tank",
-		"de": "tanken (hat getankt)"
+		"en": "fill up tank/has filled up tank",
+		"de": "tanken/hat getankt"
 	},
 	{
 		"en": "fit",
@@ -344,8 +340,8 @@
 		"de": "voraussichtlich"
 	},
 	{
-		"en": "free \/ gratis",
-		"de": "kostenlos"
+		"en": "free",
+		"de": "kostenlos/gratis"
 	},
 	{
 		"en": "fresh",
@@ -356,7 +352,7 @@
 		"de": "freundlich"
 	},
 	{
-		"en": "friendly\/nice",
+		"en": "friendly/nice",
 		"de": "sympathisch"
 	},
 	{
@@ -372,8 +368,8 @@
 		"de": "weiter"
 	},
 	{
-		"en": "furthermore \/ additionally",
-		"de": "au\u00dferdem"
+		"en": "furthermore/additionally",
+		"de": "außerdem"
 	},
 	{
 		"en": "general",
@@ -385,7 +381,7 @@
 	},
 	{
 		"en": "happy",
-		"de": "gl\u00fccklich"
+		"de": "glücklich"
 	},
 	{
 		"en": "hard",
@@ -393,7 +389,7 @@
 	},
 	{
 		"en": "hard working",
-		"de": "flei\u00dfig"
+		"de": "fleißig"
 	},
 	{
 		"en": "hardly",
@@ -408,8 +404,8 @@
 		"de": "ehrlich"
 	},
 	{
-		"en": "hope",
-		"de": "hoffen (hat gehofft)"
+		"en": "hope/has hoped",
+		"de": "hoffen/hat gehofft"
 	},
 	{
 		"en": "horrible",
@@ -420,8 +416,8 @@
 		"de": "stundelang"
 	},
 	{
-		"en": "imagine",
-		"de": "vorstellen (hat vorgestellt)"
+		"en": "imagine/has imagined",
+		"de": "vorstellen/hat vorgestellt"
 	},
 	{
 		"en": "in the morning",
@@ -448,23 +444,23 @@
 		"de": "intelligent"
 	},
 	{
-		"en": "it is\/instead",
+		"en": "it is/instead",
 		"de": "sondern"
 	},
 	{
-		"en": "jogging",
-		"de": "joggen (ist gejoggt)"
+		"en": "jogging/has jogged",
+		"de": "joggen/ist gejoggt"
 	},
 	{
-		"en": "jump",
-		"de": "springen (ist gesprungen)"
+		"en": "jump/has jumped",
+		"de": "springen/ist gesprungen"
 	},
 	{
 		"en": "just like that",
 		"de": "genauso"
 	},
 	{
-		"en": "kind\/dear",
+		"en": "kind/dear",
 		"de": "lieb"
 	},
 	{
@@ -472,24 +468,24 @@
 		"de": "bekannt"
 	},
 	{
-		"en": "landing",
-		"de": "landen (ist gelandet)"
+		"en": "landing/has landed",
+		"de": "landen/ist gelandet"
 	},
 	{
 		"en": "lazy",
 		"de": "faul"
 	},
 	{
-		"en": "leave",
-		"de": "abstellen (hat abgestellt)"
+		"en": "leave/has left",
+		"de": "abstellen/hat abgestellt"
 	},
 	{
-		"en": "lets",
-		"de": "lassen, du l\u00e1sst, er l\u00e1sst (hat gelassen)"
+		"en": "lets,you let, he let, has let",
+		"de": "lassen/du lässt/er lässt/hat gelassen"
 	},
 	{
-		"en": "look",
-		"de": "gucken (hat geguckt)"
+		"en": "look/has looked",
+		"de": "gucken/hat geguckt"
 	},
 	{
 		"en": "low",
@@ -504,8 +500,8 @@
 		"de": "Haupt"
 	},
 	{
-		"en": "meal",
-		"de": "das Men\u00fc (-s)"
+		"en": "the meal",
+		"de": "das Menü"
 	},
 	{
 		"en": "monthly",
@@ -513,7 +509,7 @@
 	},
 	{
 		"en": "most",
-		"de": "meiste (n)"
+		"de": "meiste"
 	},
 	{
 		"en": "mostly",
@@ -521,15 +517,15 @@
 	},
 	{
 		"en": "namely",
-		"de": "n\u00e4mlich"
+		"de": "nämlich"
 	},
 	{
 		"en": "naturally",
-		"de": "nat\u00fcrlich"
+		"de": "natürlich"
 	},
 	{
 		"en": "never the less",
-		"de": "dennoch \/ trotzdem"
+		"de": "dennoch/trotzdem"
 	},
 	{
 		"en": "next door",
@@ -552,8 +548,8 @@
 		"de": "nichts"
 	},
 	{
-		"en": "notice",
-		"de": "ausfallen (du f\u00e4llst auf, er f\u00e4llt auf - ist aufgefallen)"
+		"en": "notice/you are noticed, he is noticed, has been noticed",
+		"de": "ausfallen/du fällst auf, er fällt auf/ist aufgefallen"
 	},
 	{
 		"en": "now",
@@ -573,11 +569,11 @@
 	},
 	{
 		"en": "of course",
-		"de": "selbstverst\u00e4ndlich"
+		"de": "selbstverständlich"
 	},
 	{
 		"en": "often",
-		"de": "h\u00e4ufig"
+		"de": "häufig"
 	},
 	{
 		"en": "okay",
@@ -601,22 +597,22 @@
 	},
 	{
 		"en": "open",
-		"de": "\u00f6ffnen"
+		"de": "öffnen"
 	},
 	{
 		"en": "opposite",
-		"de": "gegen\u00fcber"
+		"de": "gegenüber"
 	},
 	{
 		"en": "orange",
-		"de": "orange"
+		"de": "Orange"
 	},
 	{
 		"en": "organic",
 		"de": "Bio"
 	},
 	{
-		"en": "other\/different",
+		"en": "other/different",
 		"de": "anders"
 	},
 	{
@@ -637,27 +633,27 @@
 	},
 	{
 		"en": "overnight stay",
-		"de": "die \u00dcbernachtung (en)"
+		"de": "die Übernachtung"
 	},
 	{
-		"en": "overnight stay",
-		"de": "\u00fcbernachten (hat \u00fcbernacht)"
+		"en": "overnight stay/has stayed overnight",
+		"de": "übernachten/hat übernacht"
 	},
 	{
-		"en": "overtake",
-		"de": "\u00fcberholen (hat \u00fcberholt)"
+		"en": "overtake/has overtaken",
+		"de": "überholen/hat überholt"
 	},
 	{
 		"en": "parents meeting at school",
-		"de": "der Elternbeirat(e)"
+		"de": "der Elternbeirat"
 	},
 	{
-		"en": "past \/ over \/ by",
+		"en": "past/over/by",
 		"de": "vorbei"
 	},
 	{
-		"en": "pay attention",
-		"de": "beachten (hat beachtet)"
+		"en": "pay attention/has paid attention",
+		"de": "beachten/hat beachtet"
 	},
 	{
 		"en": "play with",
@@ -665,7 +661,7 @@
 	},
 	{
 		"en": "polite",
-		"de": "h\u00f6flich"
+		"de": "höflich"
 	},
 	{
 		"en": "popular",
@@ -673,7 +669,7 @@
 	},
 	{
 		"en": "popular",
-		"de": "popul\u00e4r"
+		"de": "populär"
 	},
 	{
 		"en": "practical",
@@ -685,7 +681,7 @@
 	},
 	{
 		"en": "pretty",
-		"de": "h\u00fcbsch"
+		"de": "hübsch"
 	},
 	{
 		"en": "probably",
@@ -693,7 +689,7 @@
 	},
 	{
 		"en": "public",
-		"de": "\u00f6ffentlich"
+		"de": "öffentlich"
 	},
 	{
 		"en": "quite",
@@ -717,15 +713,15 @@
 	},
 	{
 		"en": "regularly",
-		"de": "regelm\u00e4\u00dfig"
+		"de": "regelmäßig"
 	},
 	{
-		"en": "removed",
-		"de": "entfernt (ich bin 3 km entfernt)"
+		"en": "removed/I am 3 km away",
+		"de": "entfernt/ich bin 3 km entfernt"
 	},
 	{
-		"en": "renovate",
-		"de": "renovieren (hat renoviert)"
+		"en": "renovate/has renovated",
+		"de": "renovieren/hat renoviert"
 	},
 	{
 		"en": "ripe",
@@ -744,8 +740,8 @@
 		"de": "salzig"
 	},
 	{
-		"en": "save",
-		"de": "sparen (hat gespart)"
+		"en": "save/has saved",
+		"de": "sparen/hat gespart"
 	},
 	{
 		"en": "seldom",
@@ -756,12 +752,12 @@
 		"de": "selbst"
 	},
 	{
-		"en": "send",
-		"de": "senden (hat gesendet)"
+		"en": "send/has sent",
+		"de": "senden/hat gesendet"
 	},
 	{
 		"en": "send",
-		"de": "vershicken \/ versenden \/ senden \/ schicken"
+		"de": "vershicken/versenden/senden/schicken"
 	},
 	{
 		"en": "serious",
@@ -792,31 +788,27 @@
 		"de": "jemand"
 	},
 	{
-		"en": "spicey\/sharp",
+		"en": "spicey/sharp",
 		"de": "scharf"
 	},
 	{
-		"en": "stick",
-		"de": "kleben (had geklebt)"
+		"en": "stick/has stuck",
+		"de": "kleben/hat geklebt"
 	},
 	{
-		"en": "sticking something in something stecken (hat gesteckt)",
-		"de": ""
-	},
-	{
-		"en": "stop",
-		"de": "stehen bleiben (ist stehen geblieben)"
+		"en": "stop/has stoped",
+		"de": "stehen bleiben/ist stehen geblieben"
 	},
 	{
 		"en": "strong",
-		"de": "kr\u00e4ftig"
+		"de": "kräftig"
 	},
 	{
 		"en": "summerish",
 		"de": "sommerlich"
 	},
 	{
-		"en": "sure \/ surely",
+		"en": "sure/surely",
 		"de": "sicher"
 	},
 	{
@@ -825,11 +817,11 @@
 	},
 	{
 		"en": "sweet",
-		"de": "s\u00fc\u00df"
+		"de": "süß"
 	},
 	{
-		"en": "test",
-		"de": "testen (hat getestet)"
+		"en": "test/has tested",
+		"de": "testen/hat getestet"
 	},
 	{
 		"en": "thankful",
@@ -841,7 +833,7 @@
 	},
 	{
 		"en": "the account",
-		"de": "das Konoto, konten er\u00f6ffnen (hat er\u00f6ffnet)"
+		"de": "das Konoto, konten eröffnen (hat eröffnet)"
 	},
 	{
 		"en": "the additional education",
@@ -913,7 +905,7 @@
 	},
 	{
 		"en": "the artist\/the female artist",
-		"de": "der K\u00fcnstler\/die K\u00fcnstlerin"
+		"de": "der Künstler\/die Künstlerin"
 	},
 	{
 		"en": "the association",
@@ -965,7 +957,7 @@
 	},
 	{
 		"en": "the bear",
-		"de": "der B\u00e4r(er)"
+		"de": "der Bär"
 	},
 	{
 		"en": "the beef",
@@ -989,11 +981,11 @@
 	},
 	{
 		"en": "the body",
-		"de": "der K\u00f6rper"
+		"de": "der Körper"
 	},
 	{
 		"en": "the bowl",
-		"de": "die Schl\u00fcssel"
+		"de": "die Schlüssel"
 	},
 	{
 		"en": "the brakes",
@@ -1069,7 +1061,7 @@
 	},
 	{
 		"en": "the citizen",
-		"de": "der B\u00fcrger \/ die B\u00fcrgerin"
+		"de": "der Bürger \/ die Bürgerin"
 	},
 	{
 		"en": "the clue",
@@ -1077,11 +1069,11 @@
 	},
 	{
 		"en": "the coast",
-		"de": "die K\u00fcste"
+		"de": "die Küste"
 	},
 	{
 		"en": "the coin",
-		"de": "die M\u00fcnze(n)"
+		"de": "die Münze(n)"
 	},
 	{
 		"en": "the company",
@@ -1093,7 +1085,7 @@
 	},
 	{
 		"en": "the confirmation",
-		"de": "die Best\u00e4tigung"
+		"de": "die Bestätigung"
 	},
 	{
 		"en": "the connection",
@@ -1193,7 +1185,7 @@
 	},
 	{
 		"en": "the diet",
-		"de": "die Di\u00e4t"
+		"de": "die Diät"
 	},
 	{
 		"en": "the difference",
@@ -1300,7 +1292,7 @@
 		"de": "die Export (e)"
 	},
 	{
-		"en": "the extra hour at work (overtime) die \u00dcberstunde (Nn)",
+		"en": "the extra hour at work (overtime) die Überstunde (Nn)",
 		"de": ""
 	},
 	{
@@ -1313,11 +1305,11 @@
 	},
 	{
 		"en": "the fairy tale",
-		"de": "das M\u00e4rchen"
+		"de": "das Märchen"
 	},
 	{
 		"en": "the fan",
-		"de": "der F\u00e4cher"
+		"de": "der Fächer"
 	},
 	{
 		"en": "the fantasy",
@@ -1333,7 +1325,7 @@
 	},
 	{
 		"en": "the feeling",
-		"de": "das Gef\u00fchl"
+		"de": "das Gefühl"
 	},
 	{
 		"en": "the festival",
@@ -1401,7 +1393,7 @@
 	},
 	{
 		"en": "the guided tour",
-		"de": "die F\u00fchrung (-en)"
+		"de": "die Führung (-en)"
 	},
 	{
 		"en": "the gymnastics",
@@ -1437,7 +1429,7 @@
 	},
 	{
 		"en": "the height",
-		"de": "die H\u00f6he(n)"
+		"de": "die Höhe(n)"
 	},
 	{
 		"en": "the high school diploma",
@@ -1457,7 +1449,7 @@
 	},
 	{
 		"en": "the honey",
-		"de": "der H\u00f6nig (sg)"
+		"de": "der Hönig (sg)"
 	},
 	{
 		"en": "the horse",
@@ -1545,7 +1537,7 @@
 	},
 	{
 		"en": "the laundry items",
-		"de": "die W\u00e4scheposten"
+		"de": "die Wäscheposten"
 	},
 	{
 		"en": "the leaf",
@@ -1677,7 +1669,7 @@
 	},
 	{
 		"en": "the muesli",
-		"de": "das M\u00fcsli"
+		"de": "das Müsli"
 	},
 	{
 		"en": "the national holiday",
@@ -1717,7 +1709,7 @@
 	},
 	{
 		"en": "the nourishment",
-		"de": "die Ern\u00e4hrung (Sg.)"
+		"de": "die Ernährung (Sg.)"
 	},
 	{
 		"en": "the novel",
@@ -1753,7 +1745,7 @@
 	},
 	{
 		"en": "the packet",
-		"de": "das P\u00e4ckchen"
+		"de": "das Päckchen"
 	},
 	{
 		"en": "the pair \/ the couple",
@@ -1781,7 +1773,7 @@
 	},
 	{
 		"en": "the pavement",
-		"de": "der B\u00fcrgersteig (der B\u00fcrgersteige)"
+		"de": "der Bürgersteig (der Bürgersteige)"
 	},
 	{
 		"en": "the PC",
@@ -1789,7 +1781,7 @@
 	},
 	{
 		"en": "the pedestrian",
-		"de": "der Fu\u00dfganger \/ die Fu\u00df\u00e4ngerin"
+		"de": "der Fußganger \/ die Fußängerin"
 	},
 	{
 		"en": "the pen",
@@ -1829,7 +1821,7 @@
 	},
 	{
 		"en": "the piece",
-		"de": "das St\u00fcck"
+		"de": "das Stück"
 	},
 	{
 		"en": "The pig",
@@ -1881,7 +1873,7 @@
 	},
 	{
 		"en": "the possibility",
-		"de": "die M\u00f6glichkeit(en)"
+		"de": "die Möglichkeit(en)"
 	},
 	{
 		"en": "the postcard",
@@ -1929,7 +1921,7 @@
 	},
 	{
 		"en": "the quality",
-		"de": "die Qualit\u00e4t(en)"
+		"de": "die Qualität(en)"
 	},
 	{
 		"en": "the quarter",
@@ -1949,7 +1941,7 @@
 	},
 	{
 		"en": "the raise (in a job)",
-		"de": "die Erh\u00f6hung (en)"
+		"de": "die Erhöhung (en)"
 	},
 	{
 		"en": "the reason",
@@ -1957,7 +1949,7 @@
 	},
 	{
 		"en": "the reduction in price",
-		"de": "die Erm\u00e4\u00dfigung (-en)"
+		"de": "die Ermäßigung (-en)"
 	},
 	{
 		"en": "the region",
@@ -2097,7 +2089,7 @@
 	},
 	{
 		"en": "the site",
-		"de": "die Sehensw\u00fcrdigkeit (-en)"
+		"de": "die Sehenswürdigkeit (-en)"
 	},
 	{
 		"en": "the situation",
@@ -2117,7 +2109,7 @@
 	},
 	{
 		"en": "the solution",
-		"de": "die L\u00f6sung"
+		"de": "die Lösung"
 	},
 	{
 		"en": "the soup",
@@ -2141,7 +2133,7 @@
 	},
 	{
 		"en": "the spoon",
-		"de": "der L\u00f6ffel"
+		"de": "der Löffel"
 	},
 	{
 		"en": "the stadium",
@@ -2317,19 +2309,19 @@
 	},
 	{
 		"en": "the trash",
-		"de": "der M\u00fcll (sg)"
+		"de": "der Müll (sg)"
 	},
 	{
 		"en": "the trash can",
-		"de": "die M\u00fclltonne"
+		"de": "die Mülltonne"
 	},
 	{
 		"en": "the trash company",
-		"de": "die M\u00fcllabfuhr"
+		"de": "die Müllabfuhr"
 	},
 	{
 		"en": "the travel agent office",
-		"de": "das Reiseb\u00fcro (-s)"
+		"de": "das Reisebüro (-s)"
 	},
 	{
 		"en": "the trend",
@@ -2345,7 +2337,7 @@
 	},
 	{
 		"en": "the understanding",
-		"de": "das Verst\u00e4ndnis (sg)"
+		"de": "das Verständnis (sg)"
 	},
 	{
 		"en": "the union",
@@ -2397,7 +2389,7 @@
 	},
 	{
 		"en": "the wallet",
-		"de": "die Geldb\u00f6rse"
+		"de": "die Geldbörse"
 	},
 	{
 		"en": "the way",
@@ -2497,7 +2489,7 @@
 	},
 	{
 		"en": "to be fed up with",
-		"de": "(sich) \u00e4rgern (\u00fcber) (hat ge\u00e4rgert)"
+		"de": "(sich) ärgern (über) (hat geärgert)"
 	},
 	{
 		"en": "to be fired",
@@ -2505,15 +2497,15 @@
 	},
 	{
 		"en": "to be fired",
-		"de": "die K\u00fcndigung"
+		"de": "die Kündigung"
 	},
 	{
 		"en": "to be in favour",
-		"de": "daf\u00fcr sein"
+		"de": "dafür sein"
 	},
 	{
 		"en": "to be interested in",
-		"de": "(sich) interessieren f\u00fcr (ha interessiert)"
+		"de": "(sich) interessieren für (ha interessiert)"
 	},
 	{
 		"en": "to be lazy",
@@ -2537,27 +2529,27 @@
 	},
 	{
 		"en": "to change",
-		"de": "\u00e4ndern (hat ge\u00e4ndert)"
+		"de": "ändern (hat geändert)"
 	},
 	{
 		"en": "to check",
-		"de": "\u00fcberpr\u00fcfen (hat \u00fcberpr\u00fcft)"
+		"de": "überprüfen (hat überprüft)"
 	},
 	{
 		"en": "to clash",
-		"de": "sto\u00dfen, du st\u00f6\u00dft, er st\u00f6\u00dft (ha\/ist gesto\u00dfen)"
+		"de": "stoßen, du stößt, er stößt (ha\/ist gestoßen)"
 	},
 	{
 		"en": "to comb",
-		"de": "(sich) k\u00e4mmen (hat gek\u00e4mmt)"
+		"de": "(sich) kämmen (hat gekämmt)"
 	},
 	{
 		"en": "to complain",
-		"de": "(sich) beschweren (\u00fcber) (hat beschwert)"
+		"de": "(sich) beschweren (über) (hat beschwert)"
 	},
 	{
 		"en": "to consult",
-		"de": "beraten, du br\u00e4tst, er ber\u00e4t (hat beraten)"
+		"de": "beraten, du brätst, er berät (hat beraten)"
 	},
 	{
 		"en": "to control",
@@ -2569,19 +2561,19 @@
 	},
 	{
 		"en": "to disturb",
-		"de": "st\u00f6ren (hat gest\u00f6rt)"
+		"de": "stören (hat gestört)"
 	},
 	{
 		"en": "to exaggerate",
-		"de": "\u00fcbertreiben (hat \u00fcbertrieben)"
+		"de": "übertreiben (hat übertrieben)"
 	},
 	{
 		"en": "to fall",
-		"de": "st\u00fcrzen (ist gest\u00fcrzt)"
+		"de": "stürzen (ist gestürzt)"
 	},
 	{
 		"en": "to fall down, you fall down, he fell down",
-		"de": "hinfallen, du f\u00e4llst hin, er f\u00e4llt hin (is hingefallen)"
+		"de": "hinfallen, du fällst hin, er fällt hin (is hingefallen)"
 	},
 	{
 		"en": "to fall in love",
@@ -2589,19 +2581,19 @@
 	},
 	{
 		"en": "to fall sleep",
-		"de": "einschalfen \/ du schl\u00e4fs ein, er schl\u00e4ft in (ist eingeschalfen)"
+		"de": "einschalfen \/ du schläfs ein, er schläft in (ist eingeschalfen)"
 	},
 	{
 		"en": "to feed an animal",
-		"de": "f\u00fcttern (hat gef\u00fcttert)"
+		"de": "füttern (hat gefüttert)"
 	},
 	{
 		"en": "to feel \/ had felt",
-		"de": "(sich) f\u00fchlen (hat gef\u00fchlt)"
+		"de": "(sich) fühlen (hat gefühlt)"
 	},
 	{
 		"en": "to find out",
-		"de": "erfahren, du erf\u00e4hrst, er erf\u00e4hr (hat erfahren)"
+		"de": "erfahren, du erfährst, er erfähr (hat erfahren)"
 	},
 	{
 		"en": "to freeze",
@@ -2637,11 +2629,11 @@
 	},
 	{
 		"en": "to go up",
-		"de": "erh\u00f6hen (hat erh\u00f6ht)"
+		"de": "erhöhen (hat erhöht)"
 	},
 	{
 		"en": "to hang",
-		"de": "h\u00e4ngen (hat geh\u00e4nfr \/ hat gehangen)"
+		"de": "hängen (hat gehänfr \/ hat gehangen)"
 	},
 	{
 		"en": "to heat",
@@ -2661,7 +2653,7 @@
 	},
 	{
 		"en": "to keep ones self maintained",
-		"de": "(sich) halten, du h\u00e4ltst, er h\u00e4lt (hat gehalten)"
+		"de": "(sich) halten, du hältst, er hält (hat gehalten)"
 	},
 	{
 		"en": "to kindly ask someone",
@@ -2673,7 +2665,7 @@
 	},
 	{
 		"en": "to lay off (workers)",
-		"de": "entlassen, due entl\u00e4sst, er entl\u00e4st (hat entlassen)"
+		"de": "entlassen, due entlässt, er entläst (hat entlassen)"
 	},
 	{
 		"en": "to lead",
@@ -2685,7 +2677,7 @@
 	},
 	{
 		"en": "to lock \/ to finish",
-		"de": "abschlie\u00dfen (hat abgeschlossen)"
+		"de": "abschließen (hat abgeschlossen)"
 	},
 	{
 		"en": "to look at",
@@ -2729,7 +2721,7 @@
 	},
 	{
 		"en": "to nourish ones self",
-		"de": "(sich) ern\u00e4hren"
+		"de": "(sich) ernähren"
 	},
 	{
 		"en": "to obtain",
@@ -2773,7 +2765,7 @@
 	},
 	{
 		"en": "to protect",
-		"de": "sch\u00fctzen (hat gesch\u00fctzt)"
+		"de": "schützen (hat geschützt)"
 	},
 	{
 		"en": "to put on makeup",
@@ -2853,7 +2845,7 @@
 	},
 	{
 		"en": "to surprise",
-		"de": "\u00fcberraschen (hat \u00fcberrascht)"
+		"de": "überraschen (hat überrascht)"
 	},
 	{
 		"en": "to switch off",
@@ -2861,7 +2853,7 @@
 	},
 	{
 		"en": "to take care of",
-		"de": "(sich) k\u00fcmmern um (hat gek\u00fcmmert)"
+		"de": "(sich) kümmern um (hat gekümmert)"
 	},
 	{
 		"en": "to take money",
@@ -2873,7 +2865,7 @@
 	},
 	{
 		"en": "to take over",
-		"de": "\u00fcbernehmen, du \u00fcbernimmst, er \u00fcbernimmt (hat \u00fcbernommen)"
+		"de": "übernehmen, du übernimmst, er übernimmt (hat übernommen)"
 	},
 	{
 		"en": "to take place",
@@ -2897,7 +2889,7 @@
 	},
 	{
 		"en": "to transfer",
-		"de": "\u00fcberweisen (hat \u00fcberwiesen)"
+		"de": "überweisen (hat überwiesen)"
 	},
 	{
 		"en": "to try",
@@ -2929,11 +2921,11 @@
 	},
 	{
 		"en": "to wash",
-		"de": "(sich) waschen, du w\u00e4scht, er w\u00e4scht (hat gewaschen)"
+		"de": "(sich) waschen, du wäscht, er wäscht (hat gewaschen)"
 	},
 	{
 		"en": "to water (plants)",
-		"de": "gie\u00dfen (hat gegossen)"
+		"de": "gießen (hat gegossen)"
 	},
 	{
 		"en": "to work",
@@ -2981,7 +2973,7 @@
 	},
 	{
 		"en": "walking \/ running",
-		"de": "laufen, du l\u00e4ufst, er l\u00e4uft (ist gelaufen)"
+		"de": "laufen, du läufst, er läuft (ist gelaufen)"
 	},
 	{
 		"en": "week days",
@@ -2997,7 +2989,7 @@
 	},
 	{
 		"en": "what kind of",
-		"de": "was f\u00fcr ein"
+		"de": "was für ein"
 	},
 	{
 		"en": "when",
